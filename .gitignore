@@ -1,1 +1,5 @@
 .nfs*
+*.out
+*.err
+*.jugdata/
+extract/
